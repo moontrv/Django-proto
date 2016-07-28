@@ -1,3 +1,4 @@
-MyApp
-Framework==0.9.4
-Library>=0.2
+wheel==0.23.0
+Yarg==0.1.9
+docopt==0.6.2
+
